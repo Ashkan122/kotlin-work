@@ -24,3 +24,7 @@ On a Linux or macOS system, you might see a 'Permission denied' error when
 you attempt to run Gradle. If so, fix the script's permissions with
 
     chmod u+x gradlew
+
+This project uses a Java 25 toolchain. Gradle will download it automatically
+when it is not installed locally, so an internet connection is required on
+the first build.

@@ -14,3 +14,5 @@
        ./kotlin run
 
 5. Compare program output with your predictions.
+
+predictions -99,
