@@ -1,6 +1,6 @@
 // COMP2850 Portfolio: Week 2
 // Functions for working with triangle geometry
-
+// Ashkan Ramjerdi
 import kotlin.math.sqrt
 
 typealias Triangle = Triple<Double,Double,Double>
