@@ -1,6 +1,6 @@
 // COMP2850 Portfolio: Week 4
 // Triangle class
-
+//Ashkan Ramjerdi
 import kotlin.math.sqrt
 
 class Triangle(val sideA: Double, val sideB: Double, val sideC: Double) {
